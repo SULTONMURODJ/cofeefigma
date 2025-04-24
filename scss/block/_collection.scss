@@ -1,4 +1,4 @@
-.collection{
+.collection {
     padding-top: 123px;
     padding-bottom: 100px;
     background-repeat: no-repeat;
@@ -6,22 +6,22 @@
     background-position: center 0;
 }
 
-.collection__list{
+.collection__list {
     width: 1111px;
     margin-left: auto;
     margin-right: auto;
     display: grid;
-    grid-template-columns: repeat(4,1fr);
+    grid-template-columns: repeat(4, 1fr);
     column-gap: 30px;
-  
+
 }
 
-.collection__img{
+.collection__img {
     width: 255px;
     height: 193px;
 }
 
-.collection__sub_title{
+.collection__sub_title {
     font-weight: 900;
     font-size: 24px;
     line-height: 133%;
@@ -31,7 +31,7 @@
     margin-bottom: 24px;
 }
 
-.collection__des{
+.collection__des {
     font-size: 16px;
     line-height: 162%;
     text-align: center;
