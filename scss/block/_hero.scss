@@ -1,0 +1,40 @@
+.hero__block{
+    background-repeat: no-repeat;
+    background-image: url(/img/hero__img.jpg);
+    padding-top: 117px;
+    padding-bottom: 216px;
+}
+
+.hero__content{
+    width: 493px;
+    height: 367px;
+    margin-left: 85px;
+}
+
+.hero__title{
+    font-weight: 900;
+font-size: 72px;
+line-height: 100%;
+color: #fefcf7;
+}
+
+.hero__des{
+    font-size: 16px;
+    line-height: 162%;
+    color: #fefcf7;
+    opacity: 0.8;
+    margin-top: 32px;
+    margin-bottom: 56px;
+    font-family: "Barlow", sans-serif;
+    width: 417px;
+}
+
+.hero__btn{
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 139%;
+    color: #fefcf7;
+    border-radius: 6px;
+    background: #0e8784;
+    padding: 15px 31px;
+}
