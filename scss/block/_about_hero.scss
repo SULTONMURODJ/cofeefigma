@@ -1,0 +1,27 @@
+.about__hero_block {
+    background-repeat: no-repeat;
+    background-image: url(/img/about_hero_bg.png);
+    padding-top: 137px;
+    padding-bottom: 137px;
+}
+
+.about__hero_content {
+    width: 445px;
+    height: 176px;
+    margin-left: 85px;
+}
+
+.about__hero_title {
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 120%;
+    color: #fefcf7;
+}
+
+.about__hero_des {
+    font-size: 16px;
+    line-height: 162%;
+    color: #fefcf7;
+    font-family: "Barlow", sans-serif;
+    margin-top: 24px;
+}

@@ -1,0 +1,42 @@
+.footer{
+padding-bottom: 88px;
+}
+
+.footer__block{
+    background: #2c343e;
+padding: 47px 85px;
+display: flex;
+align-items: center;
+}
+
+.footer__logo{
+    width: 236px;
+    height: 26px;
+}
+
+.footer__list{
+    display: flex;
+    gap: 32px;
+    margin-left: 132px;
+}
+
+.footer__link{
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 125%;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #83888f;
+    font-family: "Barlow", sans-serif;
+}
+
+.footer__icon_list{
+    display: flex;
+    gap: 24px;
+    margin-left: calc(30%);
+}
+
+.footer__icon_img{
+    width: 24px;
+    height: 24px;
+}
